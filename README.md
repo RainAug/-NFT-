@@ -1,7 +1,8 @@
 # -NFT-
 数字藏品NFT全套源码
-
 包部署 + 可定制化
+
+# 功能介绍
 
 功能点介绍：
 
@@ -21,24 +22,10 @@
 
 已对接支付：支付宝、易宝、链接
 
-项目
+## 使用技术 
 
-需要请+q  920174063
-# NFT后台管理系统
-
-## 运行环境
-```
-nodejs版本：14.18.3
-
-npm版本： 8.19.4
-
-cnpm版本：9.0.1
-```
-## 安装依赖
-
-```
-#安装淘宝镜像cnpm
-npm install -g cnpm -registry=https://registry.npm.taobao.org
+后端 springboot + mybatis + mysql + redis  前端 vue + react
+`
 
 检查cnpm安装结果： cnpm --version
 
